@@ -1,0 +1,17 @@
+"devDependencies": {
+    "@babel/core": "7.6.2",
+    "@babel/runtime": "7.6.2",
+    "@react-native-community/eslint-config": "0.0.3",
+    "babel-jest": "24.9.0",
+    "babel-plugin-module-resolver": "^3.2.0",
+    "dotenv": "^8.1.0",
+    "eslint": "5.16.0",
+    "eslint-config-prettier": "^6.4.0",
+    "eslint-plugin-prettier": "^2.6.2",
+    "eslint-plugin-react-native": "^3.7.0",
+    "husky": "^3.0.9",
+    "jest": "24.9.0",
+    "metro-react-native-babel-preset": "0.51.1",
+    "prettier": "^1.18.2",
+    "react-test-renderer": "16.9.0"
+  },
